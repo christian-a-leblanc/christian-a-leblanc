@@ -3,8 +3,8 @@
 <h2>👨‍💻 My IT Projects & Resources:</h2>
 
 - <b>Active Directory Lab with PowerShell</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Project Walkthrough w/ Pictures](https://github.com/christian-a-leblanc/active-directory-lab)
+  - [PowerShell Script - Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2>📚 My Certifications</h2>
 
