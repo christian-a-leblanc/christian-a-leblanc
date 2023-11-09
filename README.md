@@ -4,7 +4,7 @@
 
 - <b>Active Directory Lab with PowerShell</b>
   - [Project Walkthrough w/ Pictures](https://github.com/christian-a-leblanc/active-directory-lab)
-  - [PowerShell Script - Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [PowerShell Script - Active Directory Bulk User Creation](https://github.com/christian-a-leblanc/active-directory-lab/blob/main/1_CREATE_USERS.ps1)
 
 <h2>📚 My Certifications</h2>
 
